@@ -28,4 +28,5 @@ All rights reserved — see [LICENSE](./LICENSE). Nothing in this repository is 
 
 ## Contact
 
-[your contact email or site]
+info@yTax.ai
+
